@@ -1,0 +1,3 @@
+之前已经清楚了b-tree大体的算法思想，最近想找一个简洁的b-tree实现看看生产级都是怎么做的，发现一个不错的项目：github.com/madushadhanushka/simple-sqlite
+
+看介绍，作者把sqlite2.5里b-tree相关的部分代码抽取出来了，我编译运行了一下用例都能正常跑，代码量不过几千行，就从这里入手开始吧。 ​​​​ 
